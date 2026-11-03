@@ -27,7 +27,5 @@ If you're into backend architecture, clean code, or you're just curious what I'm
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
-### 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=metalFrenzy&theme=onedark&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
